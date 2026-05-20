@@ -15,11 +15,6 @@ desktop.ini
 .idea/
 *.code-workspace
 
-# Ignorar arquivos do Power BI Desktop que costumam ser grandes/binaros
-# Remova estas linhas se quiser versionar o arquivo .pbix/.pbit no repositório
-*.pbix
-*.pbit
-
 # Ignorar dados locais ou arquivos exportados que não façam parte do projeto
 *.xlsx
 *.xlsm
@@ -45,3 +40,8 @@ Icon?
 ~$*.doc*
 ~$*.xls*
 ~$*.ppt*
+
+# Documentão de acompanhento de mudanças e insights
+docs/registo_desenvolvimento.md
+insights.md
+docs/sequencia.md
