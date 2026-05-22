@@ -32,6 +32,21 @@ Além de servir como projeto de portfólio para demonstrar evolução prática n
 
 ---
 
+## Interface do Dashboard
+
+O dashboard foi desenvolvido utilizando uma interface executiva inspirada em painéis financeiros corporativos, contendo:
+
+- Barra lateral de navegação
+- Indicadores KPI
+- Área de análise temporal
+- Área de distribuição financeira
+- Segmentação temporal
+- Layout responsivo para análise gerencial
+
+### Página Atual
+
+- Visão Geral Financeira
+
 ## Estrutura do Projeto
 
 ```text
